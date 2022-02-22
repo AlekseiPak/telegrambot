@@ -5,7 +5,6 @@ import os
 load_dotenv()
 
 
-# val = input("Введите вашу валюту!:").upper()
 
 api_key = os.environ.get('EXCHANGERATE_API')
 
